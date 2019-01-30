@@ -1,4 +1,4 @@
-#** HTML5 GULP BOILERPLATE **#
+#HTML5 GULP BOILERPLATE#
 
 ### Basic Gulp boilerplate for HTML5 + CSS + JS project ###
 
