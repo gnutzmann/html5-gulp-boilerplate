@@ -5,4 +5,4 @@
 **How to use**
 
     Clone this repo
-        git clone htps://github.com/gnutzmann/html5-gulp-boilerplate.git
+        git clone https://github.com/gnutzmann/html5-gulp-boilerplate.git
