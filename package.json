@@ -11,7 +11,7 @@
   "author": "Diogo Gnutzmann Santos",
   "license": "GPLv3",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "del": "^3.0.0",
     "gulp": "^4.0.0",
     "gulp-concat": "^2.6.1",
